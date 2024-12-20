@@ -1,0 +1,64 @@
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+*.log
+
+# Virtual environment
+.venv/
+env/
+venv/
+ENV/
+
+# CMake build files
+/build/
+*/build/
+*/CMakeFiles/
+*/CMakeCache.txt
+*/Makefile
+*/cmake_install.cmake
+*/CTestTestfile.cmake
+*.cmake
+
+# PyInstaller
+/dist/
+*.spec
+/build/
+*.dmg
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# Linux
+*~
+
+# JetBrains IDEs
+.idea/
+
+# VSCode
+.vscode/
+
+# Logs and temp files
+*.log
+*.bak
+*.swp
+*.swo
+*.tmp
+
+# Python packages
+*.egg
+*.egg-info/
+pip-log.txt
+pip-delete-this-directory.txt
